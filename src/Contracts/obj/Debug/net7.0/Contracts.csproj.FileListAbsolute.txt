@@ -1,0 +1,12 @@
+C:\Users\vpaklatzis\Documents\projects\cattastic\src\Contracts\bin\Debug\net7.0\Contracts.deps.json
+C:\Users\vpaklatzis\Documents\projects\cattastic\src\Contracts\bin\Debug\net7.0\Contracts.dll
+C:\Users\vpaklatzis\Documents\projects\cattastic\src\Contracts\bin\Debug\net7.0\Contracts.pdb
+C:\Users\vpaklatzis\Documents\projects\cattastic\src\Contracts\obj\Debug\net7.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\vpaklatzis\Documents\projects\cattastic\src\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpaklatzis\Documents\projects\cattastic\src\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\vpaklatzis\Documents\projects\cattastic\src\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+C:\Users\vpaklatzis\Documents\projects\cattastic\src\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\vpaklatzis\Documents\projects\cattastic\src\Contracts\obj\Debug\net7.0\Contracts.dll
+C:\Users\vpaklatzis\Documents\projects\cattastic\src\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+C:\Users\vpaklatzis\Documents\projects\cattastic\src\Contracts\obj\Debug\net7.0\Contracts.pdb
+C:\Users\vpaklatzis\Documents\projects\cattastic\src\Contracts\obj\Debug\net7.0\ref\Contracts.dll

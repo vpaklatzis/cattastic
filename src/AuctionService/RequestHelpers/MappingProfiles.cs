@@ -4,9 +4,9 @@ using AutoMapper;
 
 namespace AuctionService.RequestHelpers;
 
-public class MappingProfile : Profile
+public class MappingProfiles : Profile
 {
-    public MappingProfile()
+    public MappingProfiles()
     {
         CreateMap<Auction, AuctionDto>().IncludeMembers(x => x.Item);
         CreateMap<Item, AuctionDto>();
