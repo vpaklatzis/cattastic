@@ -2,7 +2,7 @@ version: '3.9'
 
 services:
   postgres:
-    image: postgres:13.9
+    image: postgres:latest
     environment:
       - POSTGRES_PASSWORD=postgres
     ports:
@@ -11,7 +11,7 @@ services:
       - pgdata:/var/lib/postgresql/data
   
   mongo:
-    image: mongo:4.4
+    image: mongo:latest
     environment:
       - MONGO_INITDB_ROOT_USERNAME=root
       - MONGO_INITDB_ROOT_PASSWORD=root
@@ -21,7 +21,7 @@ services:
       - mongodata:/var/lib/mongodb/data
 
   rabbitmq:
-    image: rabbitmq:3-management-alpine
+    image: rabbitmq:3-management
     ports:
       - 5672:5672
       - 15672:15672
